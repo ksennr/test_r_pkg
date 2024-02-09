@@ -1,0 +1,10 @@
+name: shiny_web
+title:
+username: peterpan
+account: peterpan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11181201
+bundleId:
+url: https://peterpan.shinyapps.io/shiny_web/
+version: 1
